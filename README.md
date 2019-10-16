@@ -1,8 +1,6 @@
 # Mission to Mars
 
-![mission_to_mars](Images/mission_to_mars.png)
-
-Built a web application using HTML, MongoDB and Python Flask that scrapes various websites for data related to the 'Mission to Mars' and displays the information in a single HTML page. 
+Built a web application using HTML, MongoDB and Python Flask that scrapes various websites for data related to the "Mission to Mars" and displays the information in a single HTML page. 
 
 To scrape data, I wrote in my Jupyter Notebook and used Python with BeautifulSoup, Pandas and Requests/Splinter libraries. 
 
